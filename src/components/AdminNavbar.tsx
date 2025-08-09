@@ -30,7 +30,7 @@ const AdminNavbar: React.FC = () => {
           <div className="flex items-center space-x-2">
             <Activity className="h-7 w-7 text-primary" />
             <span className="text-lg font-bold text-foreground">MedicalRep Portal</span>
-            <span className="text-xs bg-primary text-primary-foreground px-2 py-0.5 rounded-full">Admin</span>
+            <span className="text-xs bg-accent text-accent-foreground px-2 py-0.5 rounded-full">Admin</span>
           </div>
           
           <div className="flex space-x-1">
